@@ -1,0 +1,6 @@
+---
+applications:
+- name: ServerSentEvents
+  memory: 1G
+  timeout: 60
+  path: ./target/ServerSentEvents-0.0.1-SNAPSHOT.jar
